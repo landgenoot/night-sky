@@ -1,5 +1,5 @@
-# nightsky
-Own a beamer and want to project your own generated sky full of stars? 
+# Night sky
+Have got a beamer and want to project your own generated sky full of stars? 
 
 https://landgenoot.github.io/night-sky/
 
